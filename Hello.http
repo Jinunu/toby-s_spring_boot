@@ -6,6 +6,7 @@ Content-Type: application/json
 ###
 GET http://localhost:8080/hello?name=Spring
 
+
 ###
 POST http://localhost:8080/hello?name=Spring
 
